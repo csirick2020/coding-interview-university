@@ -2,10 +2,15 @@
 # =============================================================== #
 SECTION 1 --- Algorithmic complexity / Big-O / Asymptotic analysis
 # =============================================================== #
+    
+    # ----------------------------------------------------------- #
+
     1) Harvard CS50 - Asymptotic Notation (video)
         --- Watched. Did not take notes.
     # ----------------------------------------------------------- #
+
     2) Big O Notations (general quick tutorial) - Derek Banas (YouTube)
+
             + Example 1 Formula (or algorithm)
             45n^3 + 20n^2 + 19 = 84 /// (where n=1)
                     45n^3 + 20n^2 + 19 = 459 /// (where n=2)
@@ -172,14 +177,11 @@ SECTION 1 --- Algorithmic complexity / Big-O / Asymptotic analysis
                     swapValues(leftPointer, right);
                     return leftPointer;
                 }
-
     # ----------------------------------------------------------- #
+
     3) Big O Notation (and Omega and Theta) - best mathematical explanation
             + Super mathy...too much math.
             + Good explanation, though.
             + (And don't feel bad; He thought 2^2 was 16...)
-            
-
-
-
-
+            + Worth watching, but did not take notes
+    # ----------------------------------------------------------- #
