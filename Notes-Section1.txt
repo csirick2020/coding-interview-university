@@ -174,3 +174,12 @@ SECTION 1 --- Algorithmic complexity / Big-O / Asymptotic analysis
                 }
 
     # ----------------------------------------------------------- #
+    3) Big O Notation (and Omega and Theta) - best mathematical explanation
+            + Super mathy...too much math.
+            + Good explanation, though.
+            + (And don't feel bad; He thought 2^2 was 16...)
+            
+
+
+
+
